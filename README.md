@@ -1,1 +1,1 @@
-# streamlit-nyc
+# streamlit-netflix
